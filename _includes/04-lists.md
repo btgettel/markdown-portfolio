@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Bread
+* Apples
+* Very Small Rocks
+* Cider
+  * Apple
+  * Hard
+  * Strongbow
